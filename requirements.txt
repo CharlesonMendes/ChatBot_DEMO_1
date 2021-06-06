@@ -1,0 +1,15 @@
+chatbot==1.5.2b0
+Flask==1.1.2
+pip==21.1.1
+wheel==0.36.2
+cryptography==3.4.7
+py==1.10.0
+lxml==4.6.3
+tornado==6.1
+keyring==22.3.0
+pkginfo==1.7.0
+setuptools==56.0.0
+Cython==0.29.23
+future==0.18.2
+docutils==0.17
+ChatterBot==1.0.4
